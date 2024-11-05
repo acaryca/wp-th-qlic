@@ -1,4 +1,6 @@
-# qlic-wordpress
-Un thème Wordpress simple, très simple.
+# Thème Wordpress Qlic
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
-Conçu pour être utilisé avec un "builder" comme Elementor.
+Un thème simple et léger pour Wordpress.
+
+Conçu pour être utilisé avec un constructeur de page tel que Elementor.
